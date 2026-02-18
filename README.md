@@ -1,5 +1,5 @@
 # easyFlow
-Small experiment I made using AI to organize messy information into structured action items and summaries
+Small experiment I made where I used algorithms to organize messy information into structured action items and summaries
 
 The program is easy, and simple. a Prototype project that explores how AI can reduce operational fragmentation.
 I used something similar when Teams often tracked action items across meetings, emails, and documents.  
