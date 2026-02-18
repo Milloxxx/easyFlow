@@ -1,0 +1,8 @@
+Integration Meeting — Week 2
+
+- HR still waiting for employee contract templates from legal
+- Finance needs updated payroll schedule by Friday
+- IT migration blocked because Okta credentials missing
+- Need follow-up with vendor about SSO setup
+- Decision: migrate support tickets next sprint
+- Someone should confirm data retention policy
